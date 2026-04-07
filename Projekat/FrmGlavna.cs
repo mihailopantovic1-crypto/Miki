@@ -12,7 +12,7 @@ namespace Projekat
 
         public FrmGlavna()
         {
-            //xexe
+            //xexe dtdh
             InitializeComponent();
         }
 
