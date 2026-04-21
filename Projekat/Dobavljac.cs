@@ -8,6 +8,7 @@ namespace Projekat
 {
     public class Dobavljac
     {
+        //Dobavljac ima sledeca svojstva
         public int DobavljacID { get; set; }
         public string Naziv { get; set; }
         public string Adresa { get; set; }
